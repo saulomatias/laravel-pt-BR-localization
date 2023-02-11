@@ -118,5 +118,8 @@
     "Enable": "Habilitar",
     "Regenerate Recovery Codes": "Gerar novamente os códigos de recuperação",
     "Show Recovery Codes": "Mostrar os códigos de recuperação",
-    "Disable": "Desabilitar"
+    "Disable": "Desabilitar",
+    "Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Antes de continuar, você poderia verificar seu endereço de e-mail clicando no link que acabamos de enviar para você? Se você não recebeu o e-mail, teremos o prazer de lhe enviar outro.",
+    "A new verification link has been sent to the email address you provided in your profile settings.": "Um novo link de verificação foi enviado para o endereço de e-mail que você forneceu nas configurações do seu perfil.",
+    "Edit Profile": "Editar Perfil"
 }
